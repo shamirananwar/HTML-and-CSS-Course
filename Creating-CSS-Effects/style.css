@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: pink;
+    transform: scale(1.1);
+}
